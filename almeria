@@ -1,0 +1,620 @@
+[
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ABLA",
+      "Cod": "04001",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ABRUCENA",
+      "Cod": "04002",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ADRA",
+      "Cod": "04003",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ALBANCHEZ",
+      "Cod": "04004",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ALBOLODUY",
+      "Cod": "04005",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ALBOX",
+      "Cod": "04006",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ALCOLEA",
+      "Cod": "04007",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ALCONTAR",
+      "Cod": "04008",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ALCUDIA DE MONTEAGUD",
+      "Cod": "04009",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ALHABIA",
+      "Cod": "04010",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ALHAMA DE ALMERIA",
+      "Cod": "04011",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ALICUN",
+      "Cod": "04012",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ALMERIA",
+      "Cod": "04013",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ALMOCITA",
+      "Cod": "04014",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ALSODUX",
+      "Cod": "04015",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ANTAS",
+      "Cod": "04016",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ARBOLEAS",
+      "Cod": "04017",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ARMUÑA DE ALMANZORA",
+      "Cod": "04018",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "BACARES",
+      "Cod": "04019",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "BAYARCAL",
+      "Cod": "04020",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "BAYARQUE",
+      "Cod": "04021",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "BEDAR",
+      "Cod": "04022",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "BEIRES",
+      "Cod": "04023",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "BENAHADUX",
+      "Cod": "04024",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "BENITAGLA",
+      "Cod": "04026",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "BENIZALON",
+      "Cod": "04027",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "BENTARIQUE",
+      "Cod": "04028",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "BERJA",
+      "Cod": "04029",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "CANJAYAR",
+      "Cod": "04030",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "CANTORIA",
+      "Cod": "04031",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "CARBONERAS",
+      "Cod": "04032",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "CASTRO DE FILABRES",
+      "Cod": "04033",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "COBDAR",
+      "Cod": "04034",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "CUEVAS DEL ALMANZORA",
+      "Cod": "04035",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "CHERCOS",
+      "Cod": "04036",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "CHIRIVEL",
+      "Cod": "04037",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "DALIAS",
+      "Cod": "04038",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ENIX",
+      "Cod": "04041",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "FELIX",
+      "Cod": "04043",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "FINES",
+      "Cod": "04044",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "FIÑANA",
+      "Cod": "04045",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "FONDON",
+      "Cod": "04046",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "GADOR",
+      "Cod": "04047",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "GALLARDOS (LOS)",
+      "Cod": "04048",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "GARRUCHA",
+      "Cod": "04049",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "GERGAL",
+      "Cod": "04050",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "HUECIJA",
+      "Cod": "04051",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "HUERCAL DE ALMERIA",
+      "Cod": "04052",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "HUERCAL-OVERA",
+      "Cod": "04053",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ILLAR",
+      "Cod": "04054",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "INSTINCION",
+      "Cod": "04055",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "LAROYA",
+      "Cod": "04056",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "LAUJAR DE ANDARAX",
+      "Cod": "04057",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "LIJAR",
+      "Cod": "04058",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "LUBRIN",
+      "Cod": "04059",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "LUCAINENA DE LAS TORRES",
+      "Cod": "04060",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "LUCAR",
+      "Cod": "04061",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "MACAEL",
+      "Cod": "04062",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "MARIA",
+      "Cod": "04063",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "MOJACAR",
+      "Cod": "04064",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "NACIMIENTO",
+      "Cod": "04065",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "NIJAR",
+      "Cod": "04066",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "OHANES",
+      "Cod": "04067",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "OLULA DE CASTRO",
+      "Cod": "04068",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "OLULA DEL RIO",
+      "Cod": "04069",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ORIA",
+      "Cod": "04070",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "PADULES",
+      "Cod": "04071",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "PARTALOA",
+      "Cod": "04072",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "PATERNA DEL RIO",
+      "Cod": "04073",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "PECHINA",
+      "Cod": "04074",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "PULPI",
+      "Cod": "04075",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "PURCHENA",
+      "Cod": "04076",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "RAGOL",
+      "Cod": "04077",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "RIOJA",
+      "Cod": "04078",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ROQUETAS DE MAR",
+      "Cod": "04079",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "SANTA CRUZ",
+      "Cod": "04080",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "SANTA FE DE MONDUJAR",
+      "Cod": "04081",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "SENES",
+      "Cod": "04082",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "SERON",
+      "Cod": "04083",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "SIERRO",
+      "Cod": "04084",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "SOMONTIN",
+      "Cod": "04085",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "SORBAS",
+      "Cod": "04086",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "SUFLI",
+      "Cod": "04087",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "TABERNAS",
+      "Cod": "04088",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "TABERNO",
+      "Cod": "04089",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "TAHAL",
+      "Cod": "04090",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "TERQUE",
+      "Cod": "04091",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "TIJOLA",
+      "Cod": "04092",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "TURRE",
+      "Cod": "04093",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "TURRILLAS",
+      "Cod": "04094",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ULEILA DEL CAMPO",
+      "Cod": "04095",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "URRACAL",
+      "Cod": "04096",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "VELEFIQUE",
+      "Cod": "04097",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "VELEZ BLANCO",
+      "Cod": "04098",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "VELEZ RUBIO",
+      "Cod": "04099",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "VERA",
+      "Cod": "04100",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "VIATOR",
+      "Cod": "04101",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "VICAR",
+      "Cod": "04102",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "ZURGENA",
+      "Cod": "04103",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "TRES VILLAS (LAS)",
+      "Cod": "04901",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "EJIDO (EL)",
+      "Cod": "04902",
+      "Zona": "Costa Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "MOJONERA (LA)",
+      "Cod": "04903",
+      "Zona": "Interior Almería"
+    },
+    {
+      "Provincia": "ALMERÍA",
+      "Localidad": "BALANEGRA",
+      "Cod": "04904",
+      "Zona": "Costa Almería"
+    }
+  ]
